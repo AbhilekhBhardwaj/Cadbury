@@ -8,6 +8,7 @@ import shots from './assets/shots.png'
 import 'remixicon/fonts/remixicon.css';
 import dm from './assets/dm.png'
 import fanta from './assets/fanta.png'
+import silk from './assets/silk.png'
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -71,7 +72,7 @@ const App = () => {
       <div className="one">
         <h1>CADBURY</h1>
         <img id="orange-cut" src="/assets/orange2.png" alt="" />
-        <img id="fanta" src={fanta} alt="" />
+        <img id="fanta" src={silk} alt="" />
         <img id="orange" src="/assets/orange.webp" alt="" />
         <img id="leaf" src="/assets/leaf.webp" alt="" />
         <img id="leaf2" src="/assets/leaf2.png" alt="" />

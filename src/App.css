@@ -77,6 +77,7 @@ nav i {
   width: 40%;
   z-index: 2;
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.5s;
+  mix-blend-mode: multiply;
 }
 
 #orange-cut {
