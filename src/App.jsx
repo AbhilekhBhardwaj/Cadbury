@@ -8,7 +8,7 @@ import shots from './assets/shots.png'
 import 'remixicon/fonts/remixicon.css';
 import dm from './assets/dm.png'
 import fanta from './assets/fanta.png'
-import silk from './assets/silk.png'
+import silk from './assets/silk.jpg'
 
 gsap.registerPlugin(ScrollTrigger);
 
